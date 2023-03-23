@@ -1,6 +1,2 @@
-# GTea
-GTea is an online version of GraphTea (www.graphtheorysoftware.com/).
-GraphTea is an open source software, 
-crafted for high quality standards and released under GPL license. 
-You can find more details about the source code and issue tracket on Github.
-It is a perfect tool for Students, Teachers, Researchers, Game Developers and much more
+# GraphT-T
+GraphT-T is an extension to GraphTea to visualize the 3D structures of the atom.
